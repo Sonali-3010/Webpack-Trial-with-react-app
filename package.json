@@ -1,0 +1,12 @@
+{
+  "name": "webpacktrial2",
+  "version": "1.0.0",
+  "description": "Webpack trial 2, from Dhanush's suggested site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sonali",
+  "license": "ISC"
+}
